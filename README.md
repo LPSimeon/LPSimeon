@@ -38,7 +38,7 @@ I'm Leo - an aspiring Full-Stack Developer and I'm looking for my first opportun
 <br>
 [GitHub](https://github.com/LPSimeon/)
 <br>
-email: lp.simeon@yahoo.com
+
 
 <!--
 **LPSimeon/LPSimeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
