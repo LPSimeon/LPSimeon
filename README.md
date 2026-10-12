@@ -35,7 +35,9 @@ I'm Leo - an aspiring Full-Stack Developer and I'm looking for my first opportun
 📫 My contacts
 
 [LinkedIn][https://www.linkedin.com/in/lp-simeon/]
+<br>
 [GitHub][https://github.com/LPSimeon/]
+<br>
 email: lp.simeon@yahoo.com
 
 <!--
