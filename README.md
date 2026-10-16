@@ -14,10 +14,10 @@ I'm Leo - an aspiring Full-Stack Developer and I'm looking for my first opportun
 ![JS](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TS](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/vscode-0065a9?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-- Java
-- VS Code
   
 ----
 
@@ -38,9 +38,9 @@ I'm Leo - an aspiring Full-Stack Developer and I'm looking for my first opportun
 
 📫 My contacts
 
-[LinkedIn](https://www.linkedin.com/in/lp-simeon/)
+![LinkedIn](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&link=https://www.linkedin.com/in/lp-simeon/)
 <br>
-[GitHub](https://github.com/LPSimeon/)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/LPSimeon)
 <br>
 
 
