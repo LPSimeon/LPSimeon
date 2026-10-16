@@ -38,9 +38,9 @@ I'm Leo - an aspiring Full-Stack Developer and I'm looking for my first opportun
 
 📫 My contacts
 
-![LinkedIn](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&link=https://www.linkedin.com/in/lp-simeon/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge)](https://www.linkedin.com/in/lp-simeon/)
 <br>
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/LPSimeon)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LPSimeon)
 <br>
 
 
