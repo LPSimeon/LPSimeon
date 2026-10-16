@@ -15,9 +15,10 @@ I'm Leo - an aspiring Full-Stack Developer and I'm looking for my first opportun
 ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TS](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/vscode-0065a9?style=for-the-badge)
+![Insomnia](https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia)
 ![Git](https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-0065a9?style=for-the-badge)
   
 ----
 
